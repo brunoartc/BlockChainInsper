@@ -1,0 +1,231 @@
+(lp0
+(dp1
+S'body'
+p2
+(dp3
+S'scene'
+p4
+S'Trump Cancels Summit Meeting With Kim'
+p5
+ssS'head'
+p6
+(dp7
+S'date'
+p8
+S'2018-05-24 19:54:05.832450'
+p9
+sS'nonce'
+p10
+I4208796
+sS'ultimoHash'
+p11
+S''
+p12
+sS'digest'
+p13
+S'000dc63f421ada932615e8f36d336117'
+p14
+ssa(dp15
+S'body'
+p16
+(dp17
+S'scene'
+p18
+(lp19
+S'AEMELIA By men of Epidamnum he and I did not, gentle husband, lock thee forth.'
+p20
+aS'DROMIO OF EPHESUS Say, wherefore didst thou draw thy sword on me: I never had!'
+p21
+aS'ANTIPHOLUS OF EPHESUS I am sorry, sir, that very oft, When I am beaten.'
+p22
+aS'I pray thee, let me see it.'
+p23
+assS'head'
+p24
+(dp25
+S'date'
+p26
+S'2018-06-01 23:44:32.689761'
+p27
+sS'nonce'
+p28
+I412507560
+sS'ultimoHash'
+p29
+g14
+sS'digest'
+p30
+S'000006ffe3ed6c77694a24e465ab5d35'
+p31
+ssa(dp32
+g16
+(dp33
+g18
+(lp34
+S'ANTIPHOLUS OF SYRACUSE Many a man denies, you are my elder.'
+p35
+aS'You know since Pentecost the sum that may deliver me.'
+p36
+aS'ANGELO Nay, come, I pray thee, let me feel your pulse.'
+p37
+aS'Second Merchant I am your master, Dromio: Come, go with us into the abbey here.'
+p38
+assg24
+(dp39
+g26
+S'2018-06-01 23:44:35.817103'
+p40
+sg28
+I782703170
+sg29
+g31
+sg30
+S'0000017e9f50c231699efeb5a555cb87'
+p41
+ssa(dp42
+S'body'
+p43
+(dp44
+S'scene'
+p45
+(lp46
+S'ANTIPHOLUS OF SYRACUSE And so of these.'
+p47
+aS'DUKE SOLINUS I tell you why?'
+p48
+aS'ADRIANA How ill agrees it with you, lest I come not time enough.'
+p49
+aS'So befall my soul Doth for a merry look.'
+p50
+assS'head'
+p51
+(dp52
+S'date'
+p53
+S'2018-06-01 23:46:11.063183'
+p54
+sS'nonce'
+p55
+I521227603
+sS'ultimoHash'
+p56
+g41
+sS'digest'
+p57
+S'00000c9f6ecede4026a69a7cd8813716'
+p58
+ssa(dp59
+g43
+(dp60
+g45
+(lp61
+S'Therefore depart and leave my husband forth.'
+p62
+aS'ADRIANA But, were you wedded, you would lay to your own content.'
+p63
+aS'Thou gaoler, thou, I am not Adriana nor thy wife.'
+p64
+aS"AEGEON A heavier task could not be distinguish'd but by names."
+p65
+assg51
+(dp66
+g53
+S'2018-06-01 23:46:16.713401'
+p67
+sg55
+I613842997
+sg56
+g58
+sg57
+S'0000050c0f6c0a15006f742d1c920552'
+p68
+ssa(dp69
+S'body'
+p70
+(dp71
+S'scene'
+p72
+(lp73
+S'DROMIO OF EPHESUS I pray you, let me say no more!'
+p74
+aS'Beyond imagination is the chain, so help me Heaven!'
+p75
+aS'ANTIPHOLUS OF SYRACUSE Nay, not sure, in a kind of jollity.'
+p76
+aS'Which is the devil.'
+p77
+assS'head'
+p78
+(dp79
+S'date'
+p80
+S'2018-06-01 23:47:46.559645'
+p81
+sS'nonce'
+p82
+I536454486
+sS'ultimoHash'
+p83
+g68
+sS'digest'
+p84
+S'00000c6aa31bfdfe2ba28d33bade9277'
+p85
+ssa(dp86
+S'body'
+p87
+(dp88
+S'scene'
+p89
+(lp90
+S'Courtezan Sir, I must laugh!'
+p91
+aS'ADRIANA He came to me.'
+p92
+aS'DROMIO OF SYRACUSE No, sir; I deny it or forswear it?'
+p93
+aS'Thus have you left the money for the same AEmilia!'
+p94
+assS'head'
+p95
+(dp96
+S'date'
+p97
+S'2018-06-01 23:48:49.148130'
+p98
+sS'nonce'
+p99
+I811508153
+sS'ultimoHash'
+p100
+g85
+sS'digest'
+p101
+S'000000d71b6527fe6648ddd8b6b586fa'
+p102
+ssa(dp103
+g87
+(dp104
+g89
+(lp105
+S'ANTIPHOLUS OF EPHESUS Master, knock the door down.'
+p106
+aS'Thee will I love and with thee on the mart.'
+p107
+aS"BALTHAZAR Have patience, sir; O, let it not be distinguish'd but by names."
+p108
+aS"DROMIO OF SYRACUSE Why, but there's many a man much wrong'd."
+p109
+assg95
+(dp110
+g97
+S'2018-06-01 23:49:04.165517'
+p111
+sg99
+I112422632
+sg100
+g102
+sg101
+S'00000b4d5e63399042971cd878a20521'
+p112
+ssa.
