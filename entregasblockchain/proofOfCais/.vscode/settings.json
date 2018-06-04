@@ -1,5 +1,0 @@
-{
-    "python.linting.pylintPath": "usr/lib/python2.7/pylint",
-    "python.linting.pylintEnabled": true,
-    "python.linting.pep8Enabled": false,
-}

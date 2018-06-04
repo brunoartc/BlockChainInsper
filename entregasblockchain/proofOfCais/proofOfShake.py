@@ -4,7 +4,9 @@ import hashlib
 import markovify
 import datetime
 import nltk
+import re
 import pickle
+import pprint
 from comedyOfErrors import shake
 
 maxNonce = 869609989
@@ -21,7 +23,7 @@ def milkshake():
     
     with open('comOfErr.txt') as f:
         text = f.read()
-        text_modelComedy = markovify.Text(text, state_size=2)
+        # text_modelComedy = markovify.Text(text, state_size=2)
     # with open('trumpsTweets.txt') as f:
     #     text = f.read()
     #     text_modelTrump = markovify.Text(text, state_size=2)
@@ -39,7 +41,7 @@ def milkshake():
             sentence = " ".join(word.split("::")[0] for word in words)
             return sentence
 
-    for i in range(4):
+    for i in range(5):
         scene.append(text_model.make_short_sentence(100)) 
         # scene.append(text_model.make_sentence()) 
         # print scene[i]
@@ -101,5 +103,9 @@ def action():
     pickle.dump(blocks, open('blocos.pickle', 'wb'))
         
 action()
-print pickle.load(open('blocos.pickle', 'rb'))
 
+bs = pickle.load(open('blocos.pickle', 'rb'))
+print '\n'
+for b in bs:
+    pprint.pprint (b)  
+    print '\n'
